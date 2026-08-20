@@ -1,0 +1,6 @@
+{
+  "name": "Food Rescue",
+  "description": "Community-driven platform connecting surplus food from donors with local NGOs, shelters, and volunteers to reduce waste and fight hunger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
